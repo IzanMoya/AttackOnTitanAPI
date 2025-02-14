@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AOT App</string>
+    <string name="character_image">Imagen del personaje</string>
+</resources>

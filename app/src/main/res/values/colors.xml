@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_dark">#121212</color>
+    <color name="text_light">#FFFFFF</color>
+    <color name="primary_purple">#BB86FC</color>
+    <color name="secondary_turquoise">#03DAC5</color>
+    <color name="background_aot">#1B1A17</color>
+    <color name="text_beige">#EAE0D5</color>
+    <color name="button_gold">#A47E3B</color>
+    <color name="accent_military">#8D8741</color>
+    <color name="background_light">#F5F5F5</color>
+    <color name="text_dark">#333333</color>
+    <color name="secondary_purple">#6200EA</color>
+    <color name="secondary_orange">#FF5722</color>
+
+</resources>
