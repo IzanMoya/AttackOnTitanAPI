@@ -1,0 +1,32 @@
+# Archivos generados
+*.apk
+*.ap_
+*.aab
+
+# Archivos de compilación
+bin/
+gen/
+out/
+
+# Gradle
+.gradle/
+build/
+
+# Ficheros de configuración locales de IDE
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# Archivos de log
+*.log
+
+# Otros
+.DS_Store
+Thumbs.db
+
+# Carpeta de capturas de pantalla
+captures/
+
+# Claves de API y ficheros de configuración
+google-services.json
